@@ -9,7 +9,7 @@ Full-stack dev (mostly backend) – PHP & Laravel for 4+ years. Now into AI feat
 * 🌍  I'm based in Tehran City
 * ✉️  You can contact me at [mohammadreza.amini8294@gmail.com](mailto:mohammadreza.amini8294@gmail.com)
 * 🚀  I'm currently working on [NewsProject](http://github.com/mrezaaminii/NewsProject)
-* 🧠  I'm learning Laravel
+* 🧠  I'm learning Go, Java
 * 🤝  I'm open to collaborating on All challenging projects
 
 ### Skills
