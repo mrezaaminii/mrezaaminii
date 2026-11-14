@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End Developer
 ------------------
 
-I am a backend developer . I am interested in PHP and mostly Laravel. I love new challenges to make progress then create a new thing based on my current knowledge.
+Full-stack dev (mostly backend) – PHP & Laravel for 4+ years. Now into AI features, Go, Java and DevOps. Always learning, always building.
 
 * 🌍  I'm based in Tehran City
 * ✉️  You can contact me at [mohammadreza.amini8294@gmail.com](mailto:mohammadreza.amini8294@gmail.com)
